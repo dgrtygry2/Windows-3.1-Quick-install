@@ -11,3 +11,5 @@ sudo apt install python3-pip python3 python3-tk
 That's all you gotta do for setup!
 
 Please check "Releases" to download the latest preconfigured tool.
+
+instructions to install are in the latest release. 
